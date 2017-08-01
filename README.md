@@ -1,11 +1,17 @@
 Boxer
 
 A Multiple Sequence Alignment Selection method for Phylogeny Reconstruction
-============================================================================
 
-Boxer is a program written in python that identifies optimal multiple sequence alignments based on alignment occupancy statistics and a user-defined unique taxa threshold.  
+as created for and used in 
 
-It has two inputs:1) a direcetory with the orignal alignments 2) a directory with alignments that have had spurious sequences removed.
+Linchangco, G., Foltz, D., Reid, R., Williams, J., Nodzak, C., Kerr, A., Miller, A., Hunter, R., Wilson, N., Nielsen, W., Mah, C., Rouse, G., Wray, G., Janies, D.  The phylogeny of extant starfish (Asteroidea:Echinodermata) including Xyloplax, based on comparative transcriptomics.  Molecular Phylogenetics and Evolution (accepted).
+
+http://www.sciencedirect.com/science/article/pii/S1055790317301653
+==========================================================================================================================================
+
+Boxer is a program written in Python that identifies optimal multiple sequence alignments based on alignment occupancy statistics and a user-defined unique taxa threshold.  
+
+It has two inputs:1) a directory with the orignal alignments 2) a directory with alignments that have had spurious sequences removed.
 
 Boxer is a lightweight program that can be run with a single line as shown below:
 
